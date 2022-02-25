@@ -7,4 +7,7 @@
 </video>
 ㅇㅇ
 <iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>[![Watch the video](https://img.youtube.com/vi/SWmo46d4fkE/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Watch the video](https://img.youtube.com/vi/SWmo46d4fkE/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
+SWmo46d4fkE
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
